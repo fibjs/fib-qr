@@ -1,5 +1,4 @@
-QR Code Generator for fibjs
-=======
+## QR Code Generator for fibjs
 
 ## Installation
 
