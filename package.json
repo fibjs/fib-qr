@@ -3,11 +3,11 @@
     "version": "1.0.2",
     "description": "QR Code Generator for fibjs",
     "main": "index.js",
-    "repository": "git://github.com/xicilion/fib-qr.git",
-    "homepage": "https://github.com/xicilion/fib-qr",
+    "repository": "git://github.com/fibjs/fib-qr.git",
+    "homepage": "https://github.com/fibjs/fib-qr",
     "author": "Liu Hu <lion@9465.net>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/xicilion/fib-qr/issues"
+        "url": "https://github.com/fibjs/fib-qr/issues"
     }
 }
